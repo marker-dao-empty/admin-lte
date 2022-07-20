@@ -1,0 +1,4 @@
+/**
+ * G
+ */
+export * from './getCouples'

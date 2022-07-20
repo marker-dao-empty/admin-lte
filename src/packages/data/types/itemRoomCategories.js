@@ -1,0 +1,26 @@
+import { getCouples } from '@/packages/utils'
+
+export const ITEM_ROOM_CATEGORIES = getCouples([
+  'toy',
+  'doll',
+  'sport',
+  'music',
+  'fun_decoration',
+  'the_table',
+  'chair',
+  'couch',
+  'bed',
+  'shelve',
+  'dresser',
+  'lamp',
+  'house_plant',
+  'clock',
+  'frame',
+  'curtain',
+  'fun_furniture',
+  'wallpaper',
+  'window',
+  'door',
+  'floor',
+  'background',
+])
